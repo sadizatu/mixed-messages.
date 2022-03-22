@@ -1,3 +1,4 @@
+//An Array of inspirational quotes
 const love = [
     "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more",
     "You know you’re in love when you can’t fall asleep because reality is finally better than your dreams",
@@ -165,7 +166,8 @@ const hardwork = [
     "It is better to fail in originality than to succeed in imitation.",
     "When we strive to become better than we are, everything around us becomes better too.",
     "Success is not final; failure is not fatal: It is the courage to continue that counts.",
-    "Opportunity is missed by most people because it is dressed in overalls and looks like work", "Success usually comes to those who are too busy looking for it."
+    "Opportunity is missed by most people because it is dressed in overalls and looks like work",
+    "Success usually comes to those who are too busy looking for it."
 ]
 
 
