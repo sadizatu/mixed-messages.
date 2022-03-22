@@ -155,4 +155,4 @@ const data = {
 
 }
 
-console.log(data.hardwork.length);
+console.log(data.forgiveness.length)
